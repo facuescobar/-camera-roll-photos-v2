@@ -19,7 +19,7 @@ const initialLoadState = {
 const initialParamsState = {
   first: 30,
   assetType: 'Photos',
-  groupTypes: 'All',
+  groupTypes: 'PhotoStream',
 };
 
 const initialGetPhotosState = {
