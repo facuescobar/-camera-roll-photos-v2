@@ -17,7 +17,7 @@ const initialLoadState = {
 };
 
 const initialParamsState = {
-  first: 30,
+  first: 12,
   assetType: 'Photos',
   groupTypes: 'PhotoStream',
 };
